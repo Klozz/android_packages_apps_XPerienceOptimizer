@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: Apache-2.0
+     Copyright 2025 XPerience Project
+-->
+<resources>
+    <string name="app_name">Optimizador</string>
+    <string name="optimization_title">Optimización del dispositivo</string>
+    <string name="optimize_title">Optimización del dispositivo</string>
+    <!-- Canal de notificaciones -->
+    <string name="channel_name">Optimizer Notifications</string>
+    <string name="channel_description">Notificaciones para el progreso de la optimización y finalización</string>
+    <!-- Textos de progreso -->
+    <string name="optimizing_app">Optimizando: %1$s</string>
+    <string name="optimization_complete">¡Optimización completada!</string>
+    <string name="device_ready">¡Tu dispositivo está listo!</string>
+    <string name="optimization_failed">¡Optimización fallida!</string>
+    <string name="retry_optimization">Toca para reintentar</string>
+    <!-- UI general -->
+    <string name="start_optimization">Iniciar Optimización</string>
+    <string name="progress_percentage">%1$d%%</string>
+    <string name="store_optimized">Store Optimized</string>
+    <string name="private_code_optimized">Código privado optimizado</string>
+    <string name="optimization_completed">¡Optimización completada!</string>
+    <string name="optimized">¡¡¡¡Optimizado!!!</string>
+    <string name="system_update_detected">Se ha detectado una actualización del sistema al arrancar. Iniciando optimizador…</string>
+    <string name="no_update_detected">No se ha detectado ninguna actualización del sistema al arrancar.</string>
+    <string name="log_optimization_start">Iniciando proceso de optimización</string>
+</resources>
