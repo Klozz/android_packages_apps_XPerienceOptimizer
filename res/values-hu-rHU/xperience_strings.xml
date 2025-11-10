@@ -3,7 +3,26 @@
      Copyright 2025 XPerience Project
 -->
 <resources>
+    <string name="app_name">Optimalizáló</string>
+    <string name="optimization_title">Készülék-optimalizálás</string>
+    <string name="optimize_title">Készülék-optimalizáló</string>
     <!-- Canal de notificaciones -->
+    <string name="channel_name">Az Optimalizáló értesítései</string>
+    <string name="channel_description">Értesítések az optimalizálás folyamatáról és befejezéséről</string>
     <!-- Textos de progreso -->
+    <string name="optimizing_app">Optimatizálás: %1$s</string>
+    <string name="optimization_complete">Az optimalizálás befejezve</string>
+    <string name="device_ready">A készüléke készen áll</string>
+    <string name="optimization_failed">Az optimalizálás meghiúsult</string>
+    <string name="retry_optimization">Az újrapróbáláshoz érintse meg</string>
     <!-- UI general -->
+    <string name="start_optimization">Az optimalizálás indítása</string>
+    <string name="progress_percentage">%1$d%%</string>
+    <string name="store_optimized">A tárhely optimalizálva</string>
+    <string name="private_code_optimized">A privát kód optimalizálva</string>
+    <string name="optimization_completed">Az optimalizálás befejezve!</string>
+    <string name="optimized">Optimalizálva!!!</string>
+    <string name="system_update_detected">Rendszerfrissítés észlelve a rendszerindításkor. Optimalizáló indítása…</string>
+    <string name="no_update_detected">Nem volt rendszerfrissítés észlelve a rendszerindításkor.</string>
+    <string name="log_optimization_start">Az optimalizációs folyamat indítása</string>
 </resources>
